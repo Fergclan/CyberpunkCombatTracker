@@ -22,3 +22,5 @@ I can't seem to figure out how to turn this application into an exe using a wrap
 About me: 
 My group and I play much later than I usually stay awake, so the numbers of combat can get a bit jumbled in my head as the sessions go on. This tool was mostly a fun and usegul project for myself, but I hope some other people can find this useful.
 I am just at the beginning of my Java career, and would love constructive criticism/tips to improve my programming. I am also brand new to GitHub, so I apologize for any annoyances and would love constructive criticism/tips. This is my first non-console application after three years of Uni console only work.
+
+If you really like the tool, and would like to buy me a coffee, you can here at: https://ko-fi.com/ferg84532
