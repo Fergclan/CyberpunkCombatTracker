@@ -11,12 +11,12 @@ To run this application, you will first need to have Java SE Development Kit 18,
 How to use: 
 The 4 text boxes at the top are for automatically giving values to the generated Panels. The text area labeled "Notes" will auto fill new panels with the notes added to the box. The text box labeled "Number to generate" is the amount of panels to freshly generate. Every time the enter button next to it is hit, it will clear all panels and generate the new amount. The text box and accompanying button will add a new number of panels to the end of the list. These will also pull from the same text boxes to decide starting values.
 
-each panel has a text box at the top for damage, this box is meant for entering the raw amount of damage the character receives. You can select the hit location (body/head) as well as if the damage is Melee or AP. The MX buttons next to Health and Ammo are for saving the target's original health and what their weapons will reload to when the reload button is selected. When a panel takes damage and becomes critically wounded, the panel's background will turn red.
+Each panel has a text box at the top for damage, this box is meant for entering the raw amount of damage the character receives. You can select the hit location (body/head) as well as if the damage is Melee or AP. The MX buttons next to Health and Ammo are for saving the target's original health and what their weapons will reload to when the reload button is selected. When a panel takes damage and becomes critically wounded, the panel's background will turn red.
 
 
 Known Issues: Hitting tab to change the selected box is out of order. 
 I need to find a rules clarification about how explosives ablate armor (right now if you select "Head" and "Body", it will deal body damage and ablate both).
-The available space for the panels needs to be decreased by about 15 pixels so panels on the edge arent right up against the scroll bar.
+The available space for the panels needs to be decreased by about 15 pixels so panels on the edge aren't right up against the scroll bar.
 Head armor is not capped at 0, meaning it can go into the negatives. To fix it, you'll have to manually tic it back up to zero.
 I can't seem to figure out how to turn this application into an exe using a wrapper like launch4J. Any help would be appreciated. Tips form StackOverflow haven't helped a ton.
 
