@@ -1,5 +1,5 @@
 # CyberpunkCombatTracker
-This is a small, unofficial, tool for use by GMs/Refs/DMs/etc. to make the combat in the TTRPG Cyberpunk Red by R. Talsorian a little bit easier to manage.
+This is a small, unofficial, tool for use by GMs/Refs/DMs/etc. to make the combat in the TTRPG Cyberpunk Red, by R. Talsorian Games, a little bit easier to manage.
 
 
 How to run: 
