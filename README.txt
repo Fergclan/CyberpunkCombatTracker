@@ -1,5 +1,5 @@
 # CyberpunkCombatTracker
-This is a small, unofficial, tool for use by GMs/Refs/DMs/etc. to make the combat in the TTRPG Cyberpunk Red, by R. Talsorian Games, a little bit easier to manage.
+This is a small, unofficial, tool for use by GMs/Refs/DMs/etc. to make the combat in the TTRPG Cyberpunk Red by R. Talsorian Games a little bit easier to manage.
 
 
 How to run: 
@@ -17,7 +17,8 @@ each panel has a text box at the top for damage, this box is meant for entering 
 Known Issues: Hitting tab to change the selected box is out of order. 
 I need to find a rules clarification about how explosives ablate armor (right now if you select "Head" and "Body", it will deal body damage and ablate both).
 The available space for the panels needs to be decreased by about 15 pixels so panels on the edge arent right up against the scroll bar.
-I can't seem to figure out how to turn this application into an exe using a wrapper like launch4J. Any help would be appreciated. 
+Head armor is not capped at 0, meaning it can go into the negatives. To fix it, you'll have to manually tic it back up to zero.
+I can't seem to figure out how to turn this application into an exe using a wrapper like launch4J. Any help would be appreciated. Tips form StackOverflow haven't helped a ton.
 
 About me: 
 My group and I play much later than I usually stay awake, so the numbers of combat can get a bit jumbled in my head as the sessions go on. This tool was mostly a fun and usegul project for myself, but I hope some other people can find this useful.
