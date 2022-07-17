@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: com.example.cyberpunkcombattracker.Launcher
+Class-Path: javafx-fxml-18-ea+6-win.jar javafx-graphics-18-ea+6.jar java
+ fx-controls-18-ea+6.jar javafx-controls-18-ea+6-win.jar controlsfx-11.1
+ .0.jar javafx-base-18-ea+6.jar javafx-base-18-ea+6-win.jar javafx-graph
+ ics-18-ea+6-win.jar javafx-fxml-18-ea+6.jar formsfx-core-11.3.2.jar
+
